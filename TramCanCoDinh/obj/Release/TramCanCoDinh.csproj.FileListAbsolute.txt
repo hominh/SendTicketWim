@@ -1,0 +1,12 @@
+H:\Cadpro\Tram_can\HD_TichHop_CanCoDinh_VB2237\ChuanKetNoiv3\SourceCodeSample\TramCanCoDinh\bin\Release\Pictures\a1.png
+H:\Cadpro\Tram_can\HD_TichHop_CanCoDinh_VB2237\ChuanKetNoiv3\SourceCodeSample\TramCanCoDinh\bin\Release\Pictures\a2.png
+H:\Cadpro\Tram_can\HD_TichHop_CanCoDinh_VB2237\ChuanKetNoiv3\SourceCodeSample\TramCanCoDinh\bin\Release\TramCanCoDinh.exe.config
+H:\Cadpro\Tram_can\HD_TichHop_CanCoDinh_VB2237\ChuanKetNoiv3\SourceCodeSample\TramCanCoDinh\bin\Release\TramCanCoDinh.exe
+H:\Cadpro\Tram_can\HD_TichHop_CanCoDinh_VB2237\ChuanKetNoiv3\SourceCodeSample\TramCanCoDinh\bin\Release\TramCanCoDinh.pdb
+H:\Cadpro\Tram_can\HD_TichHop_CanCoDinh_VB2237\ChuanKetNoiv3\SourceCodeSample\TramCanCoDinh\bin\Release\log4net.dll
+H:\Cadpro\Tram_can\HD_TichHop_CanCoDinh_VB2237\ChuanKetNoiv3\SourceCodeSample\TramCanCoDinh\bin\Release\MySql.Data.dll
+H:\Cadpro\Tram_can\HD_TichHop_CanCoDinh_VB2237\ChuanKetNoiv3\SourceCodeSample\TramCanCoDinh\bin\Release\protobuf-net.dll
+H:\Cadpro\Tram_can\HD_TichHop_CanCoDinh_VB2237\ChuanKetNoiv3\SourceCodeSample\TramCanCoDinh\bin\Release\RabbitMQ.Client.dll
+H:\Cadpro\Tram_can\HD_TichHop_CanCoDinh_VB2237\ChuanKetNoiv3\SourceCodeSample\TramCanCoDinh\obj\Release\TramCanCoDinh.csprojResolveAssemblyReference.cache
+H:\Cadpro\Tram_can\HD_TichHop_CanCoDinh_VB2237\ChuanKetNoiv3\SourceCodeSample\TramCanCoDinh\obj\Release\TramCanCoDinh.exe
+H:\Cadpro\Tram_can\HD_TichHop_CanCoDinh_VB2237\ChuanKetNoiv3\SourceCodeSample\TramCanCoDinh\obj\Release\TramCanCoDinh.pdb

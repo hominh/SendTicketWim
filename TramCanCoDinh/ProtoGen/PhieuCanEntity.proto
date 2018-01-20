@@ -1,0 +1,46 @@
+package TramCanCoDinh;
+
+message PhieuCanEntity {
+	required string MaPhieuCan = 1;
+	required string MaTramCan = 2;
+	required string BienSoXe = 3;
+	repeated AnhPhieuCan ImagesList = 4;
+    optional double TocDoXe = 5;
+    optional string ThoiGianXeVaoTram = 6;
+    required string NgayCan = 7;      
+    optional int32 HinhThucCan = 8;	
+	required double KhoiLuongXeThucTe = 9;
+	required double KhoiLuongXeSaiSo = 10;
+	required double KhoiLuongXeChoPhep = 11;
+	repeated BoTruc BoTrucs = 12;
+	optional string LanCan = 13;
+	optional string LanCanXe = 14;
+	optional string BienSoRM = 15;
+	optional int32 LaXeXiTec = 16;
+	optional string HoTenLaiXe = 17;
+	optional string SoGPLHX = 18;
+	optional string GhiChu = 19;
+	optional string NguoiLapPhieu = 20;
+	optional string MauXe =21;
+	optional string GPLX =22;
+	optional int32 KichThuocBaoVuotD = 23;
+	optional int32 KichThuocBaoVuotR = 24;
+	optional int32 KichThuocBaoVuotC = 25;
+	optional int32 KichThuocThungVuotD = 26;
+	optional int32 KichThuocThungVuotR = 27;
+	optional int32 KichThuocThungVuotC = 28;
+	
+	message AnhPhieuCan {
+		optional string Anh=1;
+	}
+	
+	message BoTruc {
+		required int32 LoaiBoTruc = 1;
+		optional string KhoangCachTruc=2;
+		required double KhoiLuongTrucThucTe = 3;
+		required double KhoiLuongSaiSo = 4;
+		required double KhoiLuongChoPhep = 5;
+	}
+	
+}
+ 
